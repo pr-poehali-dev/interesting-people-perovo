@@ -40,7 +40,7 @@ const Index = () => {
         <div className="absolute inset-0 bg-gradient-to-r from-primary/20 via-secondary/20 to-primary/20 opacity-30"></div>
         <div className="container mx-auto text-center relative z-10">
           <div className="animate-fade-in">
-            <h1 className="font-montserrat text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+            <h1 className="font-montserrat md:text-7xl font-bold mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent px-0 text-4xl">
               Интересные люди
             </h1>
             <h2 className="font-montserrat text-3xl md:text-4xl font-semibold mb-8 text-foreground">
