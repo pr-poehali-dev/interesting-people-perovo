@@ -43,7 +43,7 @@ const Index = () => {
             <h1 className="font-montserrat md:text-7xl font-bold mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent px-0 text-4xl">
               Интересные люди
             </h1>
-            <h2 className="font-montserrat text-3xl md:text-4xl font-semibold mb-8 text-foreground">
+            <h2 className="font-montserrat md:text-4xl font-semibold mb-8 text-foreground text-3xl">
               района Перово
             </h2>
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto mb-10 leading-relaxed">
